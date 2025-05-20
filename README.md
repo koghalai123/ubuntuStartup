@@ -19,6 +19,8 @@ sudo apt install code # or code-insiders
 # install htop
 sudo apt install htop
 
-#install fuse
+# install fuse
 sudo apt install fuse
 
+# install git
+sudo apt install git
