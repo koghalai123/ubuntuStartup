@@ -19,3 +19,6 @@ sudo apt install code # or code-insiders
 # install htop
 sudo apt install htop
 
+#install fuse
+sudo apt install fuse
+
