@@ -31,3 +31,6 @@ sudo apt install fuse
 
 # install git
 sudo apt install git
+
+sudo apt install git-lfs
+
