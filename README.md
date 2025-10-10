@@ -1,5 +1,8 @@
 # ubuntuStartup
 
+# upgrade to new program versions
+sudo apt-get update
+
 # install curl
 sudo apt install curl
 
