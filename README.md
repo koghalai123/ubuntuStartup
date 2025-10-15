@@ -1,15 +1,15 @@
-# ubuntuStartup
+#ubuntuStartup
 
-# upgrade to new program versions
+#upgrade to new program versions
 sudo apt-get update
 
-# install curl
+#install curl
 sudo apt install curl
 
-# install brave browser
+#install brave browser
 curl -fsS https://dl.brave.com/install.sh | sh
 
-# install vscode
+#install vscode
 sudo apt-get install wget gpg
 
 wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > packages.microsoft.gpg
@@ -26,13 +26,13 @@ sudo apt update
 
 sudo apt install code # or code-insiders
 
-# install htop
+#install htop
 sudo apt install htop
 
-# install fuse
+#install fuse
 sudo apt install fuse
 
-# install git
+#install git
 sudo apt install git
 
 sudo apt install git-lfs
