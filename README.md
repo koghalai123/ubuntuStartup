@@ -16,9 +16,11 @@ curl -fsS https://dl.brave.com/install.sh | sh
 
 sudo apt-get install wget gpg
 
-sudo apt install snap
+wget 'https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64' -O vscode.deb
 
-sudo snap install --classic code # or code-insiders
+sudo apt install ./vscode.deb
+
+rm vscode.deb
 
 #install htop
 
