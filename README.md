@@ -1,19 +1,15 @@
-#ubuntuStartup
+# ubuntuStartup
 
-#upgrade to new program versions
-
+#upgrade to new program versions and install Brave browser
+```
 sudo apt-get update
-
-#install curl
 
 sudo apt install curl
 
-#install brave browser
-
 curl -fsS https://dl.brave.com/install.sh | sh
-
+```
 #install vscode
-
+```
 sudo apt-get install wget gpg
 
 wget 'https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64' -O vscode.deb
@@ -21,15 +17,13 @@ wget 'https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64' 
 sudo apt install ./vscode.deb
 
 rm vscode.deb
-
-#install htop
-
+```
+#install htop and fuse
+```
 sudo apt install htop
 
-#install fuse
-
 sudo apt install fuse
-
+```
 #install git
 
 sudo apt install git
