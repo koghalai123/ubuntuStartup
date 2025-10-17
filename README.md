@@ -18,15 +18,13 @@ sudo apt install ./vscode.deb
 
 rm vscode.deb
 ```
-#install htop and fuse
+#install htop, git, and fuse
 ```
 sudo apt install htop
 
 sudo apt install fuse
-```
-#install git
 
 sudo apt install git
 
 sudo apt install git-lfs
-
+```
