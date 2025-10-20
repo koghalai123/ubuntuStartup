@@ -25,6 +25,10 @@ sudo apt install fuse
 sudo apt install git
 sudo apt install git-lfs
 ```
+Install LaTeX
+```
+sudo apt install texlive-full
+```
 
 # IF YOU GET LOCKED OUT ON LAPTOP BECAUSE OF GRAPHICS ISSUES
 Boot into recovery mode and enter the root script
