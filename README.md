@@ -40,3 +40,9 @@ On linux Mint
 sudo apt-get install mint-meta-cinnamon
 sudo reboot
 ```
+
+# If the settings app disappears
+```
+sudo apt-get remove unity-control-center
+sudo apt-get install unity-control-center
+```
