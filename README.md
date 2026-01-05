@@ -30,6 +30,11 @@ Install LaTeX
 sudo apt install texlive-full
 ```
 
+Install Python
+```
+sudo apt install -y python3 python3-pip python3-venv
+```
+
 # IF YOU GET LOCKED OUT ON LAPTOP BECAUSE OF GRAPHICS ISSUES
 Boot into recovery mode and enter the root script
 ```
