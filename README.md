@@ -20,9 +20,9 @@ sudo apt install zotero -y
 ```
 install htop, git, and fuse
 ```
-sudo apt install htop
-sudo apt install fuse
-sudo apt install git
+sudo apt install htop -y
+sudo apt install fuse -y
+sudo apt install git -y
 sudo apt install git-lfs
 ```
 Install LaTeX
