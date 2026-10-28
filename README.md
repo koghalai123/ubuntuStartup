@@ -33,6 +33,7 @@ sudo apt install texlive-full
 Install Python
 ```
 sudo apt install -y python3 python3-pip python3-venv -y
+sudo apt install python-is-python3
 ```
 
 # IF YOU GET LOCKED OUT ON LAPTOP BECAUSE OF GRAPHICS ISSUES
